@@ -2,6 +2,9 @@
 
  It is an application like a sunflower.
 
+ ![Animated GIF-downsized](https://user-images.githubusercontent.com/53788311/80295907-c9a1b280-87b1-11ea-8f10-9714ab7bf4bb.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
